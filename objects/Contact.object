@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fieldSets>
+        <fullName>ContactFeedViewComponent1</fullName>
+        <description>ContactFeedViewComponent1</description>
+        <label>ContactFeedViewComponent1</label>
+    </fieldSets>
+    <fieldSets>
+        <fullName>ContactFeedViewComponent2</fullName>
+        <description>ContactFeedViewComponent2</description>
+        <label>ContactFeedViewComponent2</label>
+    </fieldSets>
+</CustomObject>

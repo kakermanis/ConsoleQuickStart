@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customSettingsType>List</customSettingsType>
+    <customSettingsVisibility>Public</customSettingsVisibility>
+    <enableFeeds>false</enableFeeds>
+    <fields>
+        <fullName>Account_Component_1_Section_Name__c</fullName>
+        <defaultValue>&quot;Billing Details&quot;</defaultValue>
+        <externalId>false</externalId>
+        <label>Account Component 1 Section Name</label>
+        <length>255</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Account_Component_2_Section_Name__c</fullName>
+        <defaultValue>&quot;SLA Summary&quot;</defaultValue>
+        <externalId>false</externalId>
+        <label>Account Component 2 Section Name</label>
+        <length>255</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Case_Component_1_Section_Name__c</fullName>
+        <defaultValue>&quot;Product Details&quot;</defaultValue>
+        <externalId>false</externalId>
+        <label>Case Component 1 Section Name</label>
+        <length>255</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Case_Component_2_Section_Name__c</fullName>
+        <defaultValue>&quot;SLA Management&quot;</defaultValue>
+        <externalId>false</externalId>
+        <label>Case  Component 2 Section Name</label>
+        <length>255</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Contact_Component_1_Section_Name__c</fullName>
+        <defaultValue>&quot;Phone Numbers&quot;</defaultValue>
+        <externalId>false</externalId>
+        <label>Contact Component 1 Section Name</label>
+        <length>255</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Contact_Component_2_Section_Name__c</fullName>
+        <defaultValue>&quot;Address Details&quot;</defaultValue>
+        <externalId>false</externalId>
+        <label>Contact Component 2 Section Name</label>
+        <length>255</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Lead_Component_1_Section_Name__c</fullName>
+        <defaultValue>&quot;Lead Quality&quot;</defaultValue>
+        <externalId>false</externalId>
+        <label>Lead Component 1 Section Name</label>
+        <length>255</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Lead_Component_2_Section_Name__c</fullName>
+        <defaultValue>&quot;Address Details&quot;</defaultValue>
+        <externalId>false</externalId>
+        <label>Lead Component 2 Section Name</label>
+        <length>255</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Opportunity_Component_1_Section_Name__c</fullName>
+        <defaultValue>&quot;Competitive Landscape&quot;</defaultValue>
+        <externalId>false</externalId>
+        <label>Opportunity Component 1 Section Name</label>
+        <length>255</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Opportunity_Component_2_Section_Name__c</fullName>
+        <defaultValue>&quot;Forecast&quot;</defaultValue>
+        <externalId>false</externalId>
+        <label>Opportunity  Component 2 Section Name</label>
+        <length>255</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <label>FeedViewComponents</label>
+</CustomObject>

@@ -1,0 +1,41 @@
+<apex:component selfClosing="true">
+
+<style type="text/css">
+
+    body {
+        background: none;
+    }
+    .feedViewTable {
+        border-collapse:collapse;
+        border-spacing:0;
+        padding: 0px 0px 0px 0px;
+        margin: 0px 0px 0px 1px;
+        width: 93%;
+        #background-color: #f0f1f2;
+    }
+    .feedViewTable td {
+        padding:10px 5px;
+        border-style:solid;
+        border-width:1px;
+        border-color: #cfd4d9;
+        overflow:hidden;
+        word-break:normal;
+        color: #3c3d3e;
+        background-color: #FFFFFF;
+    }
+
+    .feedViewTable th {
+        font-weight:bold;
+        padding:10px 5px;
+    	padding-left: 0px;
+        border-style:solid;
+        border-width:0px;
+        border-color: #cfd4d9;
+        overflow:hidden;
+        word-break:normal;
+        color: #3c3d3e; 
+        #background-color: #C0C1C2;
+    }
+</style>
+
+</apex:component>
